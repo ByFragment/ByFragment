@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Fragment</h1>
-<h3 align="left" style>I am a young man working to become a programmer</h3>
+<p align="left" style>I am a young man working to become a programmer</p>
 
 <h3 align="left">Contact with me</h3>
 <div align="left">
